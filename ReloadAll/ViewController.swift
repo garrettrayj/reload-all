@@ -1,14 +1,16 @@
 //
 //  ViewController.swift
-//  ReloadAll
+//  AutoReload
 //
-//  Created by Garrett Johnson on 10/20/18.
+//  Created by Garrett Johnson on 9/23/18.
 //  Copyright © 2018 DevSci. All rights reserved.
 //
 
 import Cocoa
 
 class ViewController: NSViewController {
+    
+    @IBOutlet weak var window: NSWindow!
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -21,7 +23,4 @@ class ViewController: NSViewController {
         // Update the view, if already loaded.
         }
     }
-
-
 }
-
