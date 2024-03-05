@@ -11,5 +11,8 @@ While access to website info is necessary for function, no data is collected. A 
 
 After installing from the App Store, open Reload All to add the extension to Safari. Enable or disable the toolbar button in Safari preferences. Drag the application to Trash to completely uninstall the extension.
 
+
+<a href="https://apps.apple.com/app/apple-store/id1439719168?pt=106763870&ct=GitHub&mt=8"><img src="https://devsci.net/images/download-on-the-mac-app-store-black.svg" alt="Download on the Mac App Store" width="234" height="60" /></a>
+
 -------------------------------------
 Copyright &copy; 2022 Garrett Johnson
