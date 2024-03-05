@@ -87,7 +87,7 @@
 		685D41AF217BDC61003D1B79 /* SafariExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SafariExtension.entitlements; sourceTree = "<group>"; };
 		685D41B7217BDD6F003D1B79 /* ReloadPages.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReloadPages.swift; sourceTree = "<group>"; };
 		6880EBEC27AFBB8A00B479F4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		6880EBEE27AFC14200B479F4 /* LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		6880EBEE27AFC14200B479F4 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		6880EBEF27AFC17000B479F4 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -129,7 +129,7 @@
 			children = (
 				6880EBEF27AFC17000B479F4 /* .gitignore */,
 				6880EBEC27AFBB8A00B479F4 /* README.md */,
-				6880EBEE27AFC14200B479F4 /* LICENSE.txt */,
+				6880EBEE27AFC14200B479F4 /* LICENSE */,
 				685D416D217BDC18003D1B79 /* ReloadAll */,
 				685D4180217BDC19003D1B79 /* ReloadAllTests */,
 				685D418B217BDC19003D1B79 /* ReloadAllUITests */,
